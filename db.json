@@ -1,0 +1,166 @@
+{
+  "filimo_header": [
+    {
+      "id": 1,
+      "icon": "./img/icon/fa-filimo-dark-logo.svg",
+      "text": "فیلیموتور",
+      "text_2":"مدرسه",
+      "text_3":"ویژه امتحانات",
+      "text_4":"جستوجو",
+      "text_5":"خرید اشتراک",
+      "text_6":"ورود"
+    }
+  ],
+  "filimo_header_content":[
+    {"id":1,"text":"با فیلیمو بی‌وقفه فیلم ببین","text_2":"کنترل همیشه دست توست!"}
+  ],
+  "filimo_header_content-link":[
+    {"id":1,"text_link":" خرید اشتراک و تماشا"}
+  ],
+  "filimo_header_content-heading":[
+    {"id":1,"heading":"تخفیف ویژه برای کاربران جدید"}
+  ],
+  "filimo_header_content-section":[
+    {"id":1,"text_2":"90 هزار اپیزود فیلم و سریال برای تماشا داری "},
+    {"id":2,"text_2":"می‌تونی دانلود کنی بعد بدون اینترنت تماشا کنی "},
+    {"id":3,"text_2":"می‌تونی یک عضو، مخصوص تماشای کودک بسازی "}
+  ],
+  "popular":[
+    {"id":1,"text_top":"محبوب‌ترین‌های فیلیمو","text_link":{"value1":"سریال","value2":"فیلم"}}
+  ],
+  "popular_image":[
+    {"id":1,"image":"./img/popular-img/popular-1.webp","alt":"image 1","inner_image":"./img/icon/exclusive-fa.svg"},
+    {"id":2,"image":"./img/popular-img/popular-2.webp","alt":"image 2","inner_image":"./img/icon/exclusive-fa.svg"},
+    {"id":3,"image":"./img/popular-img/popular-3.webp","alt":"image 3","inner_image":"./img/icon/exclusive-fa.svg"},
+    {"id":4,"image":"./img/popular-img/popular-4.webp","alt":"image 4","inner_image":"./img/icon/exclusive-fa.svg"},
+    {"id":5,"image":"./img/popular-img/popular-5.webp","alt":"image 5","inner_image":"./img/icon/exclusive-fa.svg"},
+    {"id":6,"image":"./img/popular-img/popular-6.webp","alt":"image 6","inner_image":"./img/icon/exclusive-fa.svg"}
+  ],
+  "popular_descrip":[
+    {"id":1,"title":"شب های مافیا: زودیاک ","director":"کارگردان: محمدرضا رضائیان","category":{"category_1":"خانوادگی","category_2":"ریلیتی شو"},"description":"«شب های مافیا»، گیم شوی جذابی است که در آن یک قاتل سریالی به نام «زودیاک»، شهروندان و مافیای سیسیل را هدف قرار می دهد. در این برنامه محمد بحرانی نقش گرداننده بازی را بر عهده دارد.","img":"./img/popular-img/mafia.webp","alt":"image 1"}
+  ],
+  "popular_movie_open":[
+    {"id":1,"sesoen":"فصل 1 قسمت 1","time":"1:55:26","image":"./img/popular-img/popular_11.webp","alt":"image 1","icon":"./img/icon/icon-play.svg","free":"رایگان"},
+    {"id":2,"sesoen":"فصل 1 قسمت 2","time":"1:05:02","image":"./img/popular-img/popular_12.webp","alt":"image 2","icon":"./img//img/icon/icon-play.svg","free":"رایگان"},
+    {"id":2,"sesoen":"فصل 1 قسمت 3","time":"2:00:00","image":"./img/popular-img/popular_13.webp","alt":"image 3","icon":"./img//img/icon/icon-play.svg","free":"رایگان"},
+    {"id":2,"sesoen":"فصل 1 قسمت 4","time":"25:55","image":"./img/popular-img/popular_14.webp","alt":"image 4","icon":"./img//img/icon/icon-play.svg","free":"رایگان"}
+  ],
+  "popular_movie_lock":[
+    {"id":1,"sesoen":"فصل 1 قسمت 5","image":"./img/popular-img/popular_11.webp","alt":"image 1","icon":"./img/icon/icon-lock_fill.webp"},
+    {"id":2,"sesoen":"فصل 1 قسمت 6","image":"./img/popular-img/popular_12.webp","alt":"image 2","icon":"./img/icon/icon-lock_fill.webp"},
+    {"id":3,"sesoen":"فصل 1 قسمت 7","image":"./img/popular-img/popular_13.webp","alt":"image 3","icon":"./img/icon/icon-lock_fill.webp"},
+    {"id":4,"sesoen":"فصل 1 قسمت 8","image":"./img/popular-img/popular_14.webp","alt":"image 4","icon":"./img/icon/icon-lock_fill.webp"}
+  ],
+  "what_device_data":[
+    {"id":1,
+    "image":{"image_show":"./img/device/deviceYaghi.webp","image_hide":"./img/device/device2.webp"},
+    "alt":{"alt_show":"deviceYaghi.webp","alt_hide":"device2.webp","alt_icon1":"laptop","alt_icon2":"mobile","alt_icon3":"game"},
+    "title":{
+      "main_title":"تماشای فیلیمو با همه دستگاه‌ها",
+      "item_title_1":"کامپیوتر و لپ‌تاپ","item_title_2":"موبایل و تبلت","item_title_3":"کنسول‌های بازی (Browser)",
+      "item_link":" خرید اشتراک و تماشا"},
+      "description":{
+        "main_description":"می‌توانید فیلیمو را به صورت هم‌زمان روی 3 دستگاه مختلف مثل موبایل، تبلت، لپ‌تاپ، تلویزیون و... تماشا کنید.",
+        "item_description_1":"windows PC - MacOS - Chorom OS",
+        "item_description_2":"Android Phone & Tablets - Iphone and Ipad - Amazon Fire Tablets",
+        "item_description_3":"Xbox Series S - Xbox Seris X - PS5 - PS4"
+      },"icon":{"icon1":"./img/icon/laptop.webp","icon2":"./img/icon/mobile.webp","icon3":"./img/icon/game.webp"}}
+  ],
+  
+  "why_device_data":[
+    {
+      "id":1,
+    "image":{"image_show":"./img/device/TVBG.webp","image_hide":"./img/device/TVBG-yaghi.webp"},
+    "alt":{"alt_show":"TVBG","alt_hide":"TVBG-yaghi","alt_icon1":"tv","alt_icon2":"androidTV"},
+    "title":{
+      "main_title":"چطور با تلویزیون، فیلیمو تماشا کنم؟",
+      "item_title_1":"تلویزیون","item_title_2":"اندروید تی‌وی",
+      "item_link":"ویدیوهای آموزشی تماشا با تلویزیون"},
+      "description":{
+        "main_description":"ما برای راحتی شما و تماشای فیلیمو روی تلویزیون‌های مختلف 6 روش را فراهم کردیم. هرکدام از این 6 روش یک ویدیو آموزشی دارند که می‌توانید از لینک زیر، آن‌ها را تماشا کنید و روشی که با تلویزیون شما سازگار است را انتخاب کنید.",
+        "item_description_1":"Amazon Fire TV - LG TVs - Chrome Cast - Apple TV - Android TV devices - Samsung",
+        "item_description_2":"NVIDIA - amazon - xiaomi - minix - skystream - turewell - ematic - humax - matricom"
+      },"icon":{"icon1":"./img/icon/TV.webp","icon2":"./img/icon/androidTV.webp"}
+    }
+  ],
+  "free_media_title":[
+    {"id":1,"title":"محتواهای رایگان"}
+  ],
+  "free_media_movie":[
+    {"id":1,"img":"./img/swiper-free-media/free_media_1.webp","free":"رایگان","name":"پایتخت","alt":"پایتخت","icon":"./img/icon/icon-play.svg"},
+    {"id":2,"img":"./img/swiper-free-media/free_media_2.webp","free":"رایگان","name":"عقرب","alt":"عقرب","icon":"./img/icon/icon-play.svg"},
+    {"id":3,"img":"./img/swiper-free-media/free_media_3.webp","free":"رایگان","name":"ملکه گدایان","alt":"ملکه گدایان","icon":"./img/icon/icon-play.svg"},
+    {"id":4,"img":"./img/swiper-free-media/free_media_4.webp","free":"رایگان","name":"ویرانگر","alt":"ویرانگر","icon":"./img/icon/icon-play.svg"},
+    {"id":5,"img":"./img/swiper-free-media/free_media_5.webp","free":"رایگان","name":"شاهرگ","alt":"شاهرگ","icon":"./img/icon/icon-play.svg"},
+    {"id":6,"img":"./img/swiper-free-media/free_media_6.webp","free":"رایگان","name":"بالشها","alt":"بالشها","icon":"./img/icon/icon-play.svg"},
+    {"id":7,"img":"./img/swiper-free-media/free_media_7.webp","free":"رایگان","name":"حماسه دره شیلر","alt":"حماسه دره شیلر","icon":"./img/icon/icon-play.svg"},
+    {"id":8,"img":"./img/swiper-free-media/free_media_8.webp","free":"رایگان","name":"راز دشت تاران","alt":"راز دشت تاران","icon":"./img/icon/icon-play.svg"},
+    {"id":9,"img":"./img/swiper-free-media/free_media_9.webp","free":"رایگان","name":"چپ دست","alt":"چپ دست","icon":"./img/icon/icon-play.svg"},
+    {"id":10,"img":"./img/swiper-free-media/free_media_10.webp","free":"رایگان","name":"شب های مافیا ۲","alt":"شب های مافیا ۲","icon":"./img/icon/icon-play.svg"},
+    {"id":11,"img":"./img/swiper-free-media/free_media_11.webp","free":"رایگان","name":"مردم معمولی","alt":"مردم معمولی","icon":"./img/icon/icon-play.svg"},
+    {"id":12,"img":"./img/swiper-free-media/free_media_12.webp","free":"رایگان","name":"دیرین دیرین","alt":"دیرین دیرین","icon":"./img/icon/icon-play.svg"},
+    {"id":13,"img":"./img/swiper-free-media/free_media_13.webp","free":"رایگان","name":"سال های دور از خانه","alt":"سال های دور از خانه","icon":"./img/icon/icon-play.svg"},
+    {"id":14,"img":"./img/swiper-free-media/free_media_14.webp","free":"رایگان","name":"دراکولا","alt":"دراکولا","icon":"./img/icon/icon-play.svg"},
+    {"id":15,"img":"./img/swiper-free-media/free_media_15.webp","free":"رایگان","name":"زهر عسل","alt":"زهر عسل","icon":"./img/icon/icon-play.svg"}
+  ],
+  "kid_content":[
+    {"id":1,"title":"دنیایی متنوع از فیلم و کارتون‌های کودکانه","img":"./img/kids/bg-kids.webp","alt":"bg-kids","decription":"ساخت فیلیمو کودک این امکان را می‌دهد که با انتخاب سن فرزندتان، یک فضای امن برای تماشای کودک بسازید؛ یعنی محتوای مخصوص سن خودش را ببیند و به بقیه فیلم و سریال‌ها دسترسی نداشته‌باشد.","link":{"link1":"فیلیمو کودک بساز","link2":"تماشای فیلیمو کودک"}}
+  ],
+  "free_watch_head_title":[
+    {"id":1,"title":"سینما آنلاین فیلیمو"}
+  ],
+  "free_watch_head_items":[
+    {"id":1,"caption":"فیلم‌های روز سینمای ایران"},
+    {"id":2,"caption":"۸ ساعت زمان برای مشاهده فیلم در هر کجا"},
+    {"id":3,"caption":"خرید یک بلیت برای تماشا همراه با همه خانواده"}
+  ],
+  "free_watch_suggest":[
+    {"id":1,"name":"پالایشگاه","director":"کارگردان:  مهرداد خوشبخت","category":{"cate1":"درام","cate2":"جنگی"},"buy":"خریدبلیت","ticket":"اکران آنلاین","img":{"main_img":"./img/watch/watch-2.webp","ticket_img":"./img/icon/ticket.webp"},"alt":"پالایشگاه"},
+    {"id":2,"name":"نگهبان شب","director":"کارگردان: رضا میرکریمی","category":{"cate1":"درام"},"buy":"خریدبلیت","ticket":"اکران آنلاین","img":{"main_img":"./img/watch/watch-3.webp","ticket_img":"./img/icon/ticket.webp"},"alt":"نگهبان شب"},
+    {"id":3,"name":"گیجگاه","director":"کارگردان: عادل تبریزی","category":{"cate1":"عاشقانه","cate2":"کمدی"},"buy":"خریدبلیت","ticket":"اکران آنلاین","img":{"main_img":"./img/watch/watch-4.webp","ticket_img":"./img/icon/ticket.webp"},"alt":"گیجگاه"},
+    {"id":4,"name":"آهو","director":"کارگردان: هوشنگ گلمکانی","category":{"cate1":"درام","cate2":"خانوادگی"},"buy":"خریدبلیت","ticket":"اکران آنلاین","img":{"main_img":"./img/watch/watch-1.webp","ticket_img":"./img/icon/ticket.webp"},"alt":"آهو"},
+    {"id":5,"name":"هاوایی","director":"کارگردان: بهمن گودرزی","category":{"cate1":"کمدی","cate2":"ماجراجویی"},"buy":"خریدبلیت","ticket":"اکران آنلاین","img":{"main_img":"./img/watch/watch-5.webp","ticket_img":"./img/icon/ticket.webp"},"alt":"آهو"}
+  ],
+  "comment_top":[
+    {"id":1,"title":"نظر کاربران بعد از تماشای فیلیمو"}
+  ],
+  "comments":[
+    {"id":1,"name":"سایمان","comment":"این برنامه خیلی خوبه من داخل این فیلم نگاه می کنم کلی مامانم فیلم های بزرگسالان نگاه می‌کنه ","img":{"human":"./img/icon/1.webp","virgol":"./img/icon/virgol.webp"},"alt":{"alt1":"human","alt2":"virgol"}},
+    {"id":2,"name":"محسن مرصاد","comment":"یعنی حرف نداره فقط کافیه اشتراک شو فعال کنی میتونی کل فیل و سریالدهارو راحت تماشا کنی","img":{"human":"./img/icon/1.webp","virgol":"./img/icon/virgol.webp"},"alt":{"alt1":"human","alt2":"virgol"}},
+    {"id":3,"name":"سالار","comment":"همه نصب کنید. رایگان هم داره، با پول هم داره. همه ی فیلم های :کمدی، اکشن، درام،عاشقانه،ترسناک و کارتون توش موجود هست . پر از هیجان و شگفتی😎🥸🤓🤠👍🏻👍🏻👍🏻","img":{"human":"./img/icon/1.webp","virgol":"./img/icon/virgol.webp"},"alt":{"alt1":"human","alt2":"virgol"}},
+    {"id":4,"name":"Manidriver","comment":"فیلیمو راضیوم ازت😍😍","img":{"human":"./img/icon/1.webp","virgol":"./img/icon/virgol.webp"},"alt":{"alt1":"human","alt2":"virgol"}},
+    {"id":5,"name":"aref","comment":"خیلی برنامه خوبی هست و خیلی سریال متنوع داره","img":{"human":"./img/icon/1.webp","virgol":"./img/icon/virgol.webp"},"alt":{"alt1":"human","alt2":"virgol"}},
+    {"id":6,"name":"احسان","comment":"محشره 👌 واقعا دمتون گرم ، خب چیزی که باید به گرونی اشتراک بگم اینه که گرونه اما خب با این همه دوبله ، زحمت ، ساخت فیلم و سریال های ویژه خب قیمتش چیزی نیست ولی خب دیگه چیزی نمیشه گفت ","img":{"human":"./img/icon/1.webp","virgol":"./img/icon/virgol.webp"},"alt":{"alt1":"human","alt2":"virgol"}},
+    {"id":7,"name":"نیکا کاوند ","comment":"واقعا عالیه.😚 خیلی برنامه عالیه😻😻 من ۵ سال این برنانه رو دارم...🌹 درسته یکم اشتراکاش گرونه ولی هنوزم خوبه.💙❤ ولی اینترنتش نیمبهاست🌹🌹😻 ممنون از برنامه ی خوبتون🌹❤","img":{"human":"./img/icon/1.webp","virgol":"./img/icon/virgol.webp"},"alt":{"alt1":"human","alt2":"virgol"}},
+    {"id":8,"name":"fatemehfarahmandfar6","comment":"فیلیمو عالی من از فیلیمو رازی هستم❤❤😍🤩😘❤🍓","img":{"human":"./img/icon/1.webp","virgol":"./img/icon/virgol.webp"},"alt":{"alt1":"human","alt2":"virgol"}},
+    {"id":9,"name":"ابوالفضل خورسی","comment":"بسیار خوب و مناسب برای فیلم دیدن و انجام کارهای روزمره، نسبت به سایر اندروید باکس‌ها و نسبت به قیمتش خیلی مناسبه","img":{"human":"./img/icon/1.webp","virgol":"./img/icon/virgol.webp"},"alt":{"alt1":"human","alt2":"virgol"}},
+    {"id":10,"name":"ستایش","comment":"عالیییبیبیییییییی پیشنهاد میکنم نصب کنید فیلم های رایگان هم داره پس نصب کنید 🤗🤗","img":{"human":"./img/icon/1.webp","virgol":"./img/icon/virgol.webp"},"alt":{"alt1":"human","alt2":"virgol"}},
+    {"id":11,"name":"F.A","comment":"خیلی خوبه تازه فیلم های 2021 رو هم با دوبله داره ","img":{"human":"./img/icon/1.webp","virgol":"./img/icon/virgol.webp"},"alt":{"alt1":"human","alt2":"virgol"}},
+    {"id":12,"name":"آوا","comment":"خیلی خوب بود من راحت فیِلمی را که دوست داشتمو دانلود میکردم وغیر از دانلود راحت میتونستم فیلموببینم درهرحال راضیم ازاین برنامه.","img":{"human":"./img/icon/1.webp","virgol":"./img/icon/virgol.webp"},"alt":{"alt1":"human","alt2":"virgol"}},
+    {"id":13,"name":"TahaDamghani","comment":"عالی، می‌تونی هر فیلمی رو با دوبله و زیرنویس فارسی تماشا کنی. تازه فیلیمو کیفیت پخش آنلاین رو با سرعت اینترنت تنظیم می‌کنه تا بدون توقف فیلم ببینی. دسته‌بندی هم داره و قیمت اشتراکش نسبت به برنامه‌های مشابه خارجی خیلی ارزونتره و ساخت حساب کاربری هم رایگانه. پیشنهاد می‌کنم حتما این برنامه رو نصب کنید.","img":{"human":"./img/icon/1.webp","virgol":"./img/icon/virgol.webp"},"alt":{"alt1":"human","alt2":"virgol"}}
+  ],
+  "question_top":[
+    {"id":1,"title":"سوالات متداول","caption":"سوال شایع دیگر کاربران شاید برای شما پیش امده باشد"}
+  ],
+  "questions_gold_1":[
+    {"id":1,"title":"آیا می‌توانم فیلم‌های موجود در فیلیمو را دانلود کنم؟","caption":"بله، شما می‌توانید همه فیلم‌ و سریال‌های فیلیمو را داخل خود اپلیکیشن فیلیمو دانلود کنید و برای زمان‌هایی که اینترنت ندارید یا در سفر، هواپیما و قطار آ‌ن‌ها را تماشا کنید. برای دانلود هم از طریق رایانه و هم از طریق خود اپلیکیشن فیلیمو می‌توانید اقدام‌کنید. برای جزییات بیشتر می‌توانید فیلم‌های آموزشی مربوط به","yellow":{"span1":" دانلود از طریق سایت","span2":"دانلود از طریق  اپلیکیشن"}}
+  ],
+  "questions_gold_2":[
+    {"id":1,"title":"از کجا می‌توانم نرم‌افزار اندروید یا iOS فیلیمو را دانلود کنم؟","caption":"برای نصب نرم‌افزار اندرویدی فیلیمو می‌توانید ازطریق کافه بازار یا مایکت اقدام به دانلود کنید. یا می‌توانید روی گزینه روبرو بزنید و به‌طور مستقیم فایل نرم‌افزار را دریافت کنید.","yellow":{"span1":"(دانلود مستقیم نرم‌افزار اندروید)","span2":"(دانلود مستقیم نرم‌افزار iOS)"}}
+  ],
+  "questions_normal":[
+    {"id":1,"title":"آیا فیلیمو برای خارج از ایران در دسترس است؟","caption":"خیر. درحال حاضر تماشای فیلیمو فقط در داخل کشور فعال است و امکان تماشا برای افراد خارج از کشور فعال نیست.","myid":"colapse-1"},
+    {"id":2,"title":"آیا برای تماشای فیلم‌های اکران آنلاین، باید اشتراک بخرم؟","caption":"تماشای فیلم‌های اکران آنلاین مانند تماشا در سینمای واقعی است؛ یعنی برای دیدن هر فیلم که در اکران آنلاین است باید بلیت تهیه کنید و به جای رفتن به سالن سینما، 8 ساعت فرصت دارید که آن فیلم را از داخل خانه تماشا کنید.","myid":"colapse-2"}
+  ],
+  "filimo_last_top":[
+    {"id":1,"img":"./img/icon/logo_text.webp","alt":"filimo"}
+  ],
+  "filimo_last_item":[
+    {"id":1,"title":"هزاران فیلم و سریال خارجی (دوبله و زیرنویس)"},
+    {"id":2,"title":"هزاران انیمیشن و کارتون برای کودکان"},
+    {"id":3,"title":"پشتیبانی 24 ساعته برای راهنمایی شما"}
+  ],
+  "filimo_last_link":[
+    {"id":1,"title":"خرید اشتراک و تماشا"}
+  ]
+}
